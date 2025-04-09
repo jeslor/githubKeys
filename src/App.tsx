@@ -18,7 +18,7 @@ function App() {
         earum, reiciendis, maxime dicta inventore nihil blanditiis ea magni modi
         necessitatibus ipsa laudantium amet vitae libero expedita quia harum ex.
         Aut inventore non et, culpa earum nihil quibusdam. Itaque assumenda eos
-        consequatur vitae minus earum reprehenderit modi mollitia.
+        consequatur vitae minus earum reprehenderit mo
       </p>
     </>
   );
